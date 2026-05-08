@@ -1,0 +1,13 @@
+{
+  "name": "discord-monitor",
+  "version": "1.0.0",
+  "description": "Discord server monitor — keywords, joins, leaves, role changes",
+  "main": "discord_monitor.js",
+  "scripts": {
+    "start": "node discord_monitor.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
+
